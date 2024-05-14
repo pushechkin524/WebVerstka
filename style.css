@@ -2,6 +2,7 @@
     font-family: NEXT ART;
     src: url(/NEXTART_Regular.otf);
 }
+@import url('https://fonts.cdnfonts.com/css/next-art');
 
 html, body {
     width: 100%;
